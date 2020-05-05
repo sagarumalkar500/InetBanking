@@ -1,0 +1,10 @@
+2020-04-27 19:00:44 INFO  ebanking:14 - URL is opened
+2020-04-27 19:00:46 INFO  ebanking:19 - Username is entered
+2020-04-27 19:00:46 INFO  ebanking:22 - Password is entered
+2020-04-27 19:12:30 INFO  ebanking:14 - URL is opened
+2020-04-27 19:12:30 INFO  ebanking:19 - Username is entered
+2020-04-27 19:12:31 INFO  ebanking:22 - Password is entered
+2020-04-27 19:16:38 INFO  ebanking:14 - URL is opened
+2020-04-27 19:16:38 INFO  ebanking:19 - Username is entered
+2020-04-27 19:16:38 INFO  ebanking:22 - Password is entered
+2020-04-27 19:16:40 INFO  ebanking:29 - TestCase is passed
